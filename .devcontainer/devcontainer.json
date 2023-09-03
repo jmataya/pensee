@@ -1,4 +1,7 @@
 {
   "name": "Clojure",
-  "dockerFile": "Dockerfile"
+  "dockerFile": "Dockerfile",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/clojure-asdf:2": {}
+  }
 }
